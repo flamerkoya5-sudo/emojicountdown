@@ -9,7 +9,7 @@ Fast‑paced emoji matching countdown game built for the Google I/O challenge.
 - Built with Android Studio  
 
 ## 📸 Demo
-[Link to screen recording goes here]  
+[Screen Recording](Screen_Recording_20260505_192853_emojicountdown.mp4)  
 
 ## 🛠 Tech Stack
 - Android Studio  
